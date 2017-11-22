@@ -2,7 +2,7 @@ p {font-size: 16px; color: #212121}
 h1 {font-size: 36px; margin-top: 24px}
 h2 {font-size: 14px; font-weight: bold}
 h3 {font-size: 20px; font-weight: bold}
-a, .header p a, .content-listing h2 a, .footer p a {color: #15c; text-decoration: underline;}
+a, .header p a, .content-listing h2 a, .footer p a {color: #0288d1}
 hr {border: none; border-top: 1px solid #e0e0e0}
 
 .display-fallback {font-size: 13px; color: #888}
@@ -19,3 +19,4 @@ img.logo {width: 114px; float: right}
 .footer h2 {font-size: 13px; font-weight: bold}
 .footer p, .footer ul {font-size: 13px}
 .footer ul {padding: 0; list-style: none}
+p.footer a {color: #15c; text-decoration: underline}
