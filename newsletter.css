@@ -9,11 +9,12 @@ hr {border: none; border-top: 1px solid #e0e0e0}
 p.pub-date {font-size: 11px; color: #888}
 img.logo {width: 114px; float: right}
 
-.content-listing h3 {margin-top: 24px; margin-bottom: 6px}
+.content-listing p.subjects {text-transform: uppercase; font-size: 12px; margin-bottom: 6px}
+.content-listing h3 {margin-top: 6px; margin-bottom: 6px}
 .content-listing p.author {font-weight: bold; margin-bottom: 12px}
 .content-listing p.description {font-family: Georgia, Times, serif;}
 .content-listing p {margin-bottom: 24px}
-.content-listing div.item {border-bottom: 1px solid #e0e0e0}
+.content-listing div.item {border-bottom: 1px solid #e0e0e0;margin-bottom: 24px}
 .content-listing div.item:last-child {border-bottom: none}
 
 .footer h2 {font-size: 13px; font-weight: bold}
