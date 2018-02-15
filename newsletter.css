@@ -9,7 +9,8 @@ hr {border: none; border-top: 1px solid #e0e0e0}
 p.pub-date {font-size: 11px; color: #888}
 img.logo {width: 114px; float: right}
 
-.content-listing p.subjects {text-transform: uppercase; font-size: 12px; margin-bottom: 6px}
+.content-listing p.subjects {text-transform: uppercase; font-size: 12px; margin-bottom: 6px;}
+.content-listing p.subjects a{color: #212121}
 .content-listing h3 {margin-top: 6px; margin-bottom: 6px}
 .content-listing p.author {font-weight: bold; margin-bottom: 12px}
 .content-listing p.description {font-family: Georgia, Times, serif;}
